@@ -1,0 +1,40 @@
+a {
+	text-decoration: none;
+}
+
+.hero {
+	width: 500px;
+	height: 700px; 
+	margin: auto;
+	background-color: antiquewhite;
+}
+
+.Hyperlink {
+
+}
+
+.Hyperlink a:default {
+color: darkslategray;
+}
+
+.Hyperlink a:hover {
+color: seagreen;
+
+}
+
+.Hyperlink a:active {
+color: rebeccapurple;
+}
+
+h1 {
+	color: green;
+	font-size: 72px;
+	font-family: Eurostile;
+
+}
+
+p {
+	color: darkslategray;
+	font-size: 18px;
+	font-family: Mrs Eaves;
+}
